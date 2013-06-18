@@ -144,11 +144,11 @@ static inline BOOL CC3UIInterfaceOrientationMaskIncludesUIOrientation(NSUInteger
 static inline UIDeviceOrientation CC3UIDeviceOrientationFromUIInterfaceOrientation(UIInterfaceOrientation uiOrientation) {
 	switch (uiOrientation) {
 		case UIInterfaceOrientationLandscapeLeft:
-			return UIDeviceOrientationLandscapeRight;
+			return (UIDeviceOrientation)UIDeviceOrientationLandscapeRight;
 		case UIInterfaceOrientationLandscapeRight:
-			return UIDeviceOrientationLandscapeLeft;
+			return (UIDeviceOrientation)UIDeviceOrientationLandscapeLeft;
 		default:
-			return uiOrientation;
+			return (UIDeviceOrientation)uiOrientation;
 	}
 }
 
