@@ -20,14 +20,16 @@
 
 #if CC3_OGLES_2							// patched for cocos3d by Bill Hollings
 
-#ifdef __APPLE__
+#if defined(__APPLE__) || defined(APPORTABLE)
 #ifdef TARGET_OS_IPHONE
 #import <OpenGLES/ES2/gl.h>
 #import <OpenGLES/ES2/glext.h>
 // No binary shaders are allowed on the iphone and so this value is not defined
 // Defining here allows for a more graceful fail of binary shader loading at runtime
 // which can be recovered from instead of fail at compile time
+#if defined(__APPLE__)
 #define GL_SGX_BINARY_IMG 0
+#endif
 #else
 #include <EGL/egl.h>
 #include <GLES2/gl2.h>

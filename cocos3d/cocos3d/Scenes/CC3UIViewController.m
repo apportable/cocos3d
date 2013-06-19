@@ -37,8 +37,12 @@
 
 #if CC3_IOS
 
+#if !ANDROID
 #import <AVFoundation/AVCaptureInput.h>
 #import <AVFoundation/AVCaptureDevice.h>
+#else
+#define AVCaptureVideoPreviewLayer CALayer
+#endif
 #import <AVFoundation/AVMediaFormat.h>
 
 
@@ -179,8 +183,8 @@
 
 -(void) viewDidLayoutSubviews {
 	// viewDidLayoutSubviews was introduced in iOS5. Make sure it's okay to propagate upwards
-	if ( [[self superclass] respondsToSelector: @selector(viewDidLayoutSubviews)] )
-		[super viewDidLayoutSubviews];
+	//if ( [[self superclass] respondsToSelector: @selector(viewDidLayoutSubviews)] )
+		//[super viewDidLayoutSubviews];
 	LogTrace(@"%@ viewDidLayoutSubviews", self);
 	_viewWasLaidOut = YES;
 	[self ensureScene];
@@ -322,11 +326,11 @@
 				myView.backgroundColor = [UIColor clearColor];
 				[window addSubview: self.deviceCameraView];
 				[window bringSubviewToFront: myView];
-				[_deviceCameraView.layer.session startRunning];
+				//[_deviceCameraView.layer.session startRunning];
 			} else {
 				// If reverting, remove the clear background color, and remove the picker view from the window.
 				self.view.backgroundColor = nil;
-				[_deviceCameraView.layer.session stopRunning];
+				//[_deviceCameraView.layer.session stopRunning];
 				[_deviceCameraView removeFromSuperview];
 			}
 
@@ -352,15 +356,19 @@
 
 -(CC3AVCameraView*) deviceCameraView {
 	if ( !_deviceCameraView && self.isDeviceCameraAvailable ) {
+        /*
 		AVCaptureDevice* camDevice = [AVCaptureDevice defaultDeviceWithMediaType: AVMediaTypeVideo];
 		AVCaptureInput* avInput = [AVCaptureDeviceInput deviceInputWithDevice: camDevice error: nil];
 		AVCaptureSession* avSession = [[[AVCaptureSession alloc] init] autorelease];
 		[avSession addInput: avInput];
+        */
 		
 		_deviceCameraView = [[CC3AVCameraView alloc] initWithFrame: self.view.frame];
+        /*
 		AVCaptureVideoPreviewLayer* avLayer = _deviceCameraView.layer;
 		avLayer.session = avSession;
 		avLayer.videoGravity = AVLayerVideoGravityResizeAspectFill;
+        */
 	}
 	return _deviceCameraView;
 }

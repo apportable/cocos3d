@@ -92,14 +92,14 @@
 
 -(float) readFloat {
 	NSSwappedFloat value;
-	value.v = 0;	// zero the internal value
+	//value.v = 0;	// zero the internal value
 	[self read: sizeof(value) bytes: (char*)&value];
 	return _isBigEndian ? NSSwapBigFloatToHost(value) : NSSwapLittleFloatToHost(value);
 }
 
 -(double) readDouble {
 	NSSwappedDouble value;
-	value.v = 0;	// zero the internal value
+	//value.v = 0;	// zero the internal value
 	[self read: sizeof(value) bytes: (char*)&value];
 	return _isBigEndian ? NSSwapBigDoubleToHost(value) : NSSwapLittleDoubleToHost(value);
 }

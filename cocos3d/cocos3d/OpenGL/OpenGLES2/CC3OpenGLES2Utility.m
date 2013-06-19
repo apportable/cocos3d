@@ -473,7 +473,9 @@ char* CC3GLEnumName(GLenum gle) {
 		case GL_SHADER_COMPILER: return "GL_SHADER_COMPILER";
 			
 		// Miscellaneous & extensions
+#ifndef ANDROID
 		case GL_MAX_SAMPLES_APPLE: return "GL_MAX_SAMPLES_APPLE";
+#endif
 		case GL_VENDOR: return "GL_VENDOR";
 		case GL_RENDERER: return "GL_RENDERER";
 		case GL_VERSION: return "GL_VERSION";

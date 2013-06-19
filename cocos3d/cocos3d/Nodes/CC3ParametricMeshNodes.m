@@ -210,7 +210,8 @@
 }
 
 -(void) setParent: (CC3Node*) aNode {
-	super.parent = aNode;
+    NSLog(@"foobarmeep");
+	//super.parent = aNode;
 	[self deriveNameFrom: aNode];
 	if ( !mesh ) self.box = self.parentBoundingBox;
 }
