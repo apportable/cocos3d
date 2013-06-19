@@ -1136,7 +1136,9 @@ unsigned int PVRTTextureFormatGetBPP(const GLuint nFormat, const GLuint nType)
 		switch(nType)
 		{
 		case GL_RGBA:
+#if !ANDROID
 		case GL_BGRA:
+#endif
 			return 32;
 		}
 	case GL_UNSIGNED_SHORT_5_5_5_1:

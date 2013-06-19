@@ -210,7 +210,7 @@
 }
 
 -(void) setParent: (CC3Node*) aNode {
-	super.parent = aNode;
+	//super.parent = aNode;
 	[self deriveNameFrom: aNode];
 	if ( !mesh ) self.box = self.parentBoundingBox;
 }

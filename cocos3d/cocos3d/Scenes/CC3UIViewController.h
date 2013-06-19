@@ -35,7 +35,9 @@
 
 #if CC3_IOS
 
+#if !ANDROID
 #import <AVFoundation/AVCaptureVideoPreviewLayer.h>
+#endif
 
 @class CC3AVCameraView;
 
@@ -493,7 +495,7 @@
 @interface CC3AVCameraView : UIView
 
 /** The underlying layer cast as a AVCaptureVideoPreviewLayer. */
-@property(nonatomic, readonly, retain) AVCaptureVideoPreviewLayer* layer;
+//@property(nonatomic, readonly, retain) AVCaptureVideoPreviewLayer* layer;
 @end
 
 #endif // CC3_IOS

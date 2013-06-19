@@ -29,9 +29,10 @@
 
 /** @file */	// Doxygen marker
 
-
 @class CC3GLSLVariable, CC3GLSLUniform, CC3NodeDrawingVisitor;
 
+#import <OpenGLES/ES2/gl.h>
+#import <OpenGLES/ES2/glext.h>
 
 #pragma mark Semantic enumerations
 

@@ -107,8 +107,10 @@
 	[CCDirector.sharedDirector reshapeProjection: CC2_SIZE];		// Issue #914 #924
 	
 	// Notify controller...already done in iOS5 & above
+#if !ANDROID // viewDidLayoutSubviews added in ios5.0, and missing in apportable sdk
 	if(CCConfiguration.sharedConfiguration.OSVersion < kCCiOSVersion_5_0 )
 		[self.viewController viewDidLayoutSubviews];
+#endif
 }
 
 @end
