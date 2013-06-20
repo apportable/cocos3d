@@ -1,3 +1,17 @@
+Used version of cocos2d-iphone: 
+commit 42ae82639d5a47a528738fca089f99f79edc8732
+Author: Ricardo Quesada <ricardoquesada@gmail.com>
+Date:   Tue May 15 14:44:25 2012 -0700
+
+    ccArray: implementation is in .m file
+    
+    Moved implementation to a .m file.
+    Performance is not really affected by this change, and it makes the code
+    more mantainable and compatible with externals tools like gen_bridge_metadata
+
+
+
+
 <img src="http://www.cocos2d-iphone.org/downloads/cocos2d_logo.png">
 
 Copyright (c) 2010-2013 The Brenwill Workshop Ltd. All rights reserved.
