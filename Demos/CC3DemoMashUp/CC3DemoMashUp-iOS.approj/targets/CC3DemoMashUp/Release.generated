@@ -1,0 +1,3416 @@
+{
+    "xcode_project": "CC3DemoMashUp-iOS.xcodeproj", 
+    "sources": [
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshion/CDAudioManager.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshion/CDOpenALSupport.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshion/CocosDenshion.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshion/SimpleAudioEngine.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshionExtras/CDXMacOSXSupport.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/CocosDenshionExtras/CDXPropertyModifierAction.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCAction.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionCamera.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionCatmullRom.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionEase.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionGrid.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionGrid3D.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionInstant.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionInterval.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionManager.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionPageTurn3D.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionProgressTimer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionTiledGrid.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCActionTween.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCAnimation.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCAnimationCache.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCAtlasNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCCamera.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCConfiguration.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCDirector.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCDrawingPrimitives.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCGLProgram.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCGrabber.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCGrid.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCLabelAtlas.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCLabelBMFont.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCLabelTTF.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCLayer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCMenu.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCMenuItem.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCMotionStreak.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCNode+Debug.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCParallaxNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCParticleBatchNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCParticleExamples.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCParticleSystem.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCParticleSystemQuad.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCProgressTimer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCRenderTexture.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCScene.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCScheduler.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCShaderCache.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCSprite.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCSpriteBatchNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCSpriteFrame.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCSpriteFrameCache.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTMXLayer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTMXObjectGroup.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTMXTiledMap.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTMXXMLParser.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTexture2D.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTextureAtlas.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTextureCache.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTexturePVR.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTileMapAtlas.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTransition.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTransitionPageTurn.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/CCTransitionProgress.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/Mac/CCDirectorMac.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/Mac/CCEventDispatcher.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/Mac/CCGLView.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/Mac/CCWindow.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/iOS/CCDirectorIOS.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/iOS/CCES2Renderer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/iOS/CCGLView.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/iOS/CCTouchDispatcher.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Platforms/iOS/CCTouchHandler.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/CCArray.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/CCFileUtils.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/CCProfiling.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/CCVertex.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/CGPointExtension.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/NSThread+performBlock.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/TGAlib.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/TransformUtils.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/ZipUtils.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/base64.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/ccCArray.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/Support/ccUtils.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/ccDeprecated.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/ccGLStateCache.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/ccShaders.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos2d/cocos2d/cocos2d.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/GL/mat4stack.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/GL/matrix.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/aabb.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/mat3.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/mat4.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/neon_matrix_impl.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/plane.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/quaternion.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/ray2.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/utility.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/vec2.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/vec3.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c", 
+            "header_paths": [], 
+            "source": "../../cocos2d/kazmath/src/vec4.c", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3CAL/CC3CAFResource.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3CAL/CC3CALNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3CAL/CC3CSFResource.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3Extras/CC3MeshParticleSamples.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3Extras/CC3ModelSampleFactory.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3Extras/CC3ParticleSamples.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3Extras/CC3PointParticleSamples.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3IdentifiablePODExtensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3NodePODExtensions.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PFXResource.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODCamera.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODLight.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODMaterial.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODMesh.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODMeshNode.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODResource.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODResourceNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PODVertexSkinning.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PVRFoundation.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PVRGLTexture.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3PVRShamanGLProgramSemantics.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/CC3VertexArraysPODExtensions.mm", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES/PVRTTextureAPI.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES/PVRTglesExt.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES2/PVRTTextureAPI.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES2/PVRTgles2Ext.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTBoneBatch.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTDecompress.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTError.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTFixedPoint.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTMatrixF.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTModelPOD.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTPFXParser.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTQuaternionF.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTResourceFile.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTString.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTStringHash.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTTexture.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTTrans.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTVector.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "c++", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cc3PVR/PVRT 3.1/PVRTVertex.cpp", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Animation/CC3Actions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Animation/CC3NodeAnimation.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Materials/CC3GLTexture.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Materials/CC3Material.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Materials/CC3Texture.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Materials/CC3TextureUnit.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3AffineMatrix.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3LinearMatrix.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3Matrix.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3Matrix3x3.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3Matrix4x3.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3Matrix4x4.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Matrices/CC3ProjectionMatrix.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Meshes/CC3Mesh.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Meshes/CC3ParametricMeshes.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Meshes/CC3VertexArrays.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Meshes/CC3VertexSkinning.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3Billboard.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3BitmapLabelNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3BoundingVolumes.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3Camera.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3Light.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3MeshNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3Node.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3NodeVisitor.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Nodes/CC3ParametricMeshNodes.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/CC3OpenGL.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/CC3OpenGLFixedPipeline.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/CC3OpenGLFoundation.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/CC3OpenGLProgPipeline.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGL/CC3GLView-GL.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGL/CC3OpenGL2.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGL/CC3OpenGLUtility.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/CC3GLView-GLES1.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/CC3OpenGLES1.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/CC3OpenGLES1Utility.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/CC3GLView-GLES2.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/CC3OpenGLES2.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/CC3OpenGLES2Utility.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Particles/CC3MeshParticles.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Particles/CC3Particles.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Particles/CC3PointParticles.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Resources/CC3DataStreams.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Resources/CC3NodesResource.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Resources/CC3Resource.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Resources/CC3ResourceNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3ControllableLayer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3Fog.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3Layer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3NodeSequencer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3Scene.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Scenes/CC3UIViewController.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shaders/CC3GLProgram.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shaders/CC3GLProgramContext.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shaders/CC3GLProgramMatchers.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shaders/CC3GLProgramSemantics.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shaders/CC3GLSLVariable.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Shadows/CC3ShadowVolumes.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3CC2Extensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3Foundation.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3IOSExtensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3Identifiable.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3OSExtensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3OSXExtensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3PerformanceStatistics.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/cocos3d/Utility/CC3Rotator.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3GLMatrix.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3MeshModel.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3TargettingNode.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3VertexArrayMesh.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3VertexArrayMeshModel.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "../../cocos3d/deprecated/CC3World.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/CC3DemoMashUpLayer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/CC3DemoMashUpScene.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/Controls/CCNodeAdornments.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/Controls/CCNodeExtensions.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/Controls/Joystick.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/HUDLayer.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/HUDScene.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/Classes/Models.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/iOS Support/CC3DemoMashUpAppDelegate.m", 
+            "flags": [], 
+            "defines": {}
+        }, 
+        {
+            "language": "objc", 
+            "header_paths": [], 
+            "source": "CC3DemoMashUp/iOS Support/main.m", 
+            "flags": [], 
+            "defines": {}
+        }
+    ], 
+    "infoplists": [
+        "./CC3DemoMashUp/iOS Support/Info.plist"
+    ], 
+    "libs": [
+        "z"
+    ], 
+    "defines": {
+        "CC_FONT_LABEL_SUPPORT": 0, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 30000, 
+        "NDEBUG": 1, 
+        "NS_BLOCK_ASSERTIONS": 1
+    }, 
+    "pchs": [
+        "./CC3DemoMashUp/iOS Support/CC3DemoMashUp_Prefix.pch"
+    ], 
+    "assets": [
+        {
+            "asset": "../../cocos3d/GLSL/CC3BumpMapTangentSpace.fsh", 
+            "target": "CC3BumpMapTangentSpace.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3NoTextureAlphaTest.fsh", 
+            "target": "CC3NoTextureAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3BumpMapObjectSpaceAlphaTest.fsh", 
+            "target": "CC3BumpMapObjectSpaceAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3BumpMapTangentSpaceAlphaTest.fsh", 
+            "target": "CC3BumpMapTangentSpaceAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3BumpMapObjectSpace.fsh", 
+            "target": "CC3BumpMapObjectSpace.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3MultiTextureConfigurable.fsh", 
+            "target": "CC3MultiTextureConfigurable.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3NoTexture.fsh", 
+            "target": "CC3NoTexture.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3NoTextureReflect.fsh", 
+            "target": "CC3NoTextureReflect.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3NoTextureReflectAlphaTest.fsh", 
+            "target": "CC3NoTextureReflectAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3PointSprites.fsh", 
+            "target": "CC3PointSprites.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3PointSpritesAlphaTest.fsh", 
+            "target": "CC3PointSpritesAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3PureColor.vsh", 
+            "target": "CC3PureColor.vsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3PointSprites.vsh", 
+            "target": "CC3PointSprites.vsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3PureColor.fsh", 
+            "target": "CC3PureColor.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3SingleTexture.fsh", 
+            "target": "CC3SingleTexture.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3SingleTextureAlphaTest.fsh", 
+            "target": "CC3SingleTextureAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3SingleTextureReflect.fsh", 
+            "target": "CC3SingleTextureReflect.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3SingleTextureReflectAlphaTest.fsh", 
+            "target": "CC3SingleTextureReflectAlphaTest.fsh"
+        }, 
+        {
+            "asset": "../../cocos3d/GLSL/CC3TexturableMaterial.vsh", 
+            "target": "CC3TexturableMaterial.vsh"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/BumpMap.fsh", 
+            "target": "BumpMap.fsh"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/BumpMap.vsh", 
+            "target": "BumpMap.vsh"
+        }, 
+        {
+            "asset": "../Common/Resources/ArrowLeftButton48x48.png", 
+            "target": "ArrowLeftButton48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/ButtonRing48x48.png", 
+            "target": "ButtonRing48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/cocos3dMascot.png", 
+            "target": "cocos3dMascot.png"
+        }, 
+        {
+            "asset": "../Common/Resources/cocos3dMascot.pod", 
+            "target": "cocos3dMascot.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "../Common/Resources/DieCube.pod", 
+            "target": "DieCube.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/fire.png", 
+            "target": "fire.png"
+        }, 
+        {
+            "asset": "../Common/Resources/GridButton48x48.png", 
+            "target": "GridButton48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Head.pod", 
+            "target": "Head.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/Icon-72.png", 
+            "target": "Icon-72.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Icon-Small-50.png", 
+            "target": "Icon-Small-50.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Icon-Small.png", 
+            "target": "Icon-Small.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Icon-Small@2x.png", 
+            "target": "Icon-Small@2x.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "../Common/Resources/IntroducingPOD_float.pod", 
+            "target": "IntroducingPOD_float.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/ItunesArtwork", 
+            "target": "ItunesArtwork"
+        }, 
+        {
+            "asset": "../Common/Resources/JoystickThumb.png", 
+            "target": "JoystickThumb.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Shine48x48.png", 
+            "target": "Shine48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/SunlightButton48x48.png", 
+            "target": "SunlightButton48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/ZoomButton48x48.png", 
+            "target": "ZoomButton48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/BoxTexture.png", 
+            "target": "BoxTexture.png"
+        }, 
+        {
+            "asset": "../Common/Resources/mallet.png", 
+            "target": "mallet.png"
+        }, 
+        {
+            "asset": "../Common/Resources/mallet.pod", 
+            "target": "mallet.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/Earth_1024.jpg", 
+            "target": "Earth_1024.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/BeachBall.pod", 
+            "target": "BeachBall.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/Crate.png", 
+            "target": "Crate.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Stamp.png", 
+            "target": "Stamp.png"
+        }, 
+        {
+            "asset": "../Common/Resources/GrassCloseUp.jpg", 
+            "target": "GrassCloseUp.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/GrassWithLeaves.jpg", 
+            "target": "GrassWithLeaves.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/MountainGrass.jpg", 
+            "target": "MountainGrass.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/Grass.jpg", 
+            "target": "Grass.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/ShadowButton48x48.png", 
+            "target": "ShadowButton48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/ShadowButtonLatched48x48.png", 
+            "target": "ShadowButtonLatched48x48.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Bricks-Red.jpg", 
+            "target": "Bricks-Red.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/earthmap1k.jpg", 
+            "target": "earthmap1k.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/BallBoxTexture.png", 
+            "target": "BallBoxTexture.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "../Common/Resources/fps_images-hd.png", 
+            "target": "fps_images-hd.png"
+        }, 
+        {
+            "asset": "../Common/Resources/fps_images-ipadhd.png", 
+            "target": "fps_images-ipadhd.png"
+        }, 
+        {
+            "asset": "../Common/Resources/fps_images.png", 
+            "target": "fps_images.png"
+        }, 
+        {
+            "asset": "../Common/Resources/fps_images_1.png", 
+            "target": "fps_images_1.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Arial32BMGlyph.fnt", 
+            "target": "Arial32BMGlyph.fnt"
+        }, 
+        {
+            "asset": "../Common/Resources/Arial32BMGlyph.png", 
+            "target": "Arial32BMGlyph.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/BaseTex.png", 
+            "target": "BaseTex.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/BrushedSteel.png", 
+            "target": "BrushedSteel.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/EtchedMask.pod", 
+            "target": "EtchedMask.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/MaskEffects.pfx", 
+            "target": "MaskEffects.pfx"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/NormalMap.png", 
+            "target": "NormalMap.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/Reflection.png", 
+            "target": "Reflection.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Masks/ReflectiveMask.pod", 
+            "target": "ReflectiveMask.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/RunningMen/belt.png", 
+            "target": "belt.png"
+        }, 
+        {
+            "asset": "../Common/Resources/RunningMen/body.png", 
+            "target": "body.png"
+        }, 
+        {
+            "asset": "../Common/Resources/RunningMen/man.pod", 
+            "target": "man.pod"
+        }, 
+        {
+            "asset": "../Common/Resources/RunningMen/legs.png", 
+            "target": "legs.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Head_diffuse.png", 
+            "target": "Head_diffuse.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Head_clonespace.png", 
+            "target": "Head_clonespace.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Stamp-nm.png", 
+            "target": "Stamp-nm.png"
+        }, 
+        {
+            "asset": "../Common/Resources/tex_arm.png", 
+            "target": "tex_arm.png"
+        }, 
+        {
+            "asset": "../Common/Resources/tex_base.png", 
+            "target": "tex_base.png"
+        }, 
+        {
+            "asset": "../Common/Resources/Head_diffuse.bmp", 
+            "target": "Head_diffuse.bmp"
+        }, 
+        {
+            "asset": "../Common/Resources/tex_arm.pvr", 
+            "target": "tex_arm.pvr"
+        }, 
+        {
+            "asset": "../Common/Resources/tex_base.bmp", 
+            "target": "tex_base.bmp"
+        }, 
+        {
+            "asset": "../Common/Resources/tex_base.pvr", 
+            "target": "tex_base.pvr"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMap.pfx", 
+            "target": "EnvMap.pfx"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapNegX.jpg", 
+            "target": "EnvMapNegX.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapNegY.jpg", 
+            "target": "EnvMapNegY.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapNegZ.jpg", 
+            "target": "EnvMapNegZ.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapPosX.jpg", 
+            "target": "EnvMapPosX.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapPosY.jpg", 
+            "target": "EnvMapPosY.jpg"
+        }, 
+        {
+            "asset": "../Common/Resources/EnvMap/EnvMapPosZ.jpg", 
+            "target": "EnvMapPosZ.jpg"
+        }, 
+        {
+            "asset": "../../cocos3d/cc3CAL/Cal3D File Formats.txt", 
+            "target": "Cal3D File Formats.txt"
+        }, 
+        {
+            "asset": "../../cocos3d/cc3PVR/PVRT 3.1/PVRT_Removed_Files.txt", 
+            "target": "PVRT_Removed_Files.txt"
+        }, 
+        {
+            "asset": "../../cocos2d/kazmath/src/ChangeLog", 
+            "target": "ChangeLog"
+        }, 
+        {
+            "asset": "../../cocos2d/kazmath/src/CMakeLists.txt", 
+            "target": "CMakeLists.txt"
+        }
+    ], 
+    "type": "app", 
+    "header_paths": [
+        {
+            "type": "iquote", 
+            "header_path": "CC3DemoMashUp-generated-files.hmap", 
+            "hmap": {}
+        }, 
+        {
+            "type": "I", 
+            "header_path": "CC3DemoMashUp-own-target-headers.hmap", 
+            "hmap": {}
+        }, 
+        {
+            "type": "I", 
+            "header_path": "CC3DemoMashUp-all-target-headers.hmap", 
+            "hmap": {}
+        }, 
+        {
+            "type": "iquote", 
+            "header_path": "CC3DemoMashUp-project-headers.hmap", 
+            "hmap": {
+                "CC3PODResource.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODResource.h", 
+                    "key": "CC3PODResource.h"
+                }, 
+                "CC3PODMeshNode.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODMeshNode.h", 
+                    "key": "CC3PODMeshNode.h"
+                }, 
+                "CCTextureCache.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTextureCache.h", 
+                    "key": "CCTextureCache.h"
+                }, 
+                "CC3AffineMatrix.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3AffineMatrix.h", 
+                    "key": "CC3AffineMatrix.h"
+                }, 
+                "ccShader_PositionTextureColor_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_vert.h", 
+                    "key": "ccShader_PositionTextureColor_vert.h"
+                }, 
+                "NSThread+performBlock.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "NSThread+performBlock.h", 
+                    "key": "NSThread+performBlock.h"
+                }, 
+                "Models.h": {
+                    "prefix": "CC3DemoMashUp/Classes/", 
+                    "suffix": "Models.h", 
+                    "key": "Models.h"
+                }, 
+                "CCNodeController.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CCNodeController.h", 
+                    "key": "CCNodeController.h"
+                }, 
+                "CC3UIViewController.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3UIViewController.h", 
+                    "key": "CC3UIViewController.h"
+                }, 
+                "ccShader_Position_uColor_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_frag.h", 
+                    "key": "ccShader_Position_uColor_frag.h"
+                }, 
+                "ccShader_PositionTexture_uColor_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_frag.h", 
+                    "key": "ccShader_PositionTexture_uColor_frag.h"
+                }, 
+                "CCAnimation.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCAnimation.h", 
+                    "key": "CCAnimation.h"
+                }, 
+                "CC3OpenGL2.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGL/", 
+                    "suffix": "CC3OpenGL2.h", 
+                    "key": "CC3OpenGL2.h"
+                }, 
+                "CC3GLTexture.h": {
+                    "prefix": "../../cocos3d/cocos3d/Materials/", 
+                    "suffix": "CC3GLTexture.h", 
+                    "key": "CC3GLTexture.h"
+                }, 
+                "CCTMXTiledMap.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTMXTiledMap.h", 
+                    "key": "CCTMXTiledMap.h"
+                }, 
+                "CCTouchDelegateProtocol.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDelegateProtocol.h", 
+                    "key": "CCTouchDelegateProtocol.h"
+                }, 
+                "CC3PVRTModelPOD.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRTModelPOD.h", 
+                    "key": "CC3PVRTModelPOD.h"
+                }, 
+                "CDXMacOSXSupport.h": {
+                    "prefix": "../../cocos2d/CocosDenshionExtras/", 
+                    "suffix": "CDXMacOSXSupport.h", 
+                    "key": "CDXMacOSXSupport.h"
+                }, 
+                "CDAudioManager.h": {
+                    "prefix": "../../cocos2d/CocosDenshion/", 
+                    "suffix": "CDAudioManager.h", 
+                    "key": "CDAudioManager.h"
+                }, 
+                "CCArray.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "CCArray.h", 
+                    "key": "CCArray.h"
+                }, 
+                "ccShader_PositionTexture_uColor_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_vert.h", 
+                    "key": "ccShader_PositionTexture_uColor_vert.h"
+                }, 
+                "CocosDenshion.h": {
+                    "prefix": "../../cocos2d/CocosDenshion/", 
+                    "suffix": "CocosDenshion.h", 
+                    "key": "CocosDenshion.h"
+                }, 
+                "CCActionProgressTimer.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionProgressTimer.h", 
+                    "key": "CCActionProgressTimer.h"
+                }, 
+                "CC3OSExtensions.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3OSExtensions.h", 
+                    "key": "CC3OSExtensions.h"
+                }, 
+                "CCActionGrid.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionGrid.h", 
+                    "key": "CCActionGrid.h"
+                }, 
+                "CCAtlasNode.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCAtlasNode.h", 
+                    "key": "CCAtlasNode.h"
+                }, 
+                "CCLayer.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCLayer.h", 
+                    "key": "CCLayer.h"
+                }, 
+                "PVRTBoneBatch.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTBoneBatch.h", 
+                    "key": "PVRTBoneBatch.h"
+                }, 
+                "CCES2Renderer.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCES2Renderer.h", 
+                    "key": "CCES2Renderer.h"
+                }, 
+                "CC3Matrix4x4.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3Matrix4x4.h", 
+                    "key": "CC3Matrix4x4.h"
+                }, 
+                "CC3MatrixMath.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3MatrixMath.h", 
+                    "key": "CC3MatrixMath.h"
+                }, 
+                "ccConfig.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccConfig.h", 
+                    "key": "ccConfig.h"
+                }, 
+                "CCAnimationCache.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCAnimationCache.h", 
+                    "key": "CCAnimationCache.h"
+                }, 
+                "CC3Fog.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3Fog.h", 
+                    "key": "CC3Fog.h"
+                }, 
+                "cocos2d.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "cocos2d.h", 
+                    "key": "cocos2d.h"
+                }, 
+                "CCGrid.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCGrid.h", 
+                    "key": "CCGrid.h"
+                }, 
+                "vec2.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "vec2.h", 
+                    "key": "vec2.h"
+                }, 
+                "ccTypes.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccTypes.h", 
+                    "key": "ccTypes.h"
+                }, 
+                "PVRTVector.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTVector.h", 
+                    "key": "PVRTVector.h"
+                }, 
+                "CCCamera.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCCamera.h", 
+                    "key": "CCCamera.h"
+                }, 
+                "CC3OpenGL.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/", 
+                    "suffix": "CC3OpenGL.h", 
+                    "key": "CC3OpenGL.h"
+                }, 
+                "CC3World.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3World.h", 
+                    "key": "CC3World.h"
+                }, 
+                "CCTransition.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTransition.h", 
+                    "key": "CCTransition.h"
+                }, 
+                "HUDScene.h": {
+                    "prefix": "CC3DemoMashUp/Classes/", 
+                    "suffix": "HUDScene.h", 
+                    "key": "HUDScene.h"
+                }, 
+                "CC3MeshParticles.h": {
+                    "prefix": "../../cocos3d/cocos3d/Particles/", 
+                    "suffix": "CC3MeshParticles.h", 
+                    "key": "CC3MeshParticles.h"
+                }, 
+                "CCSpriteFrameCache.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCSpriteFrameCache.h", 
+                    "key": "CCSpriteFrameCache.h"
+                }, 
+                "CC3CC2Extensions.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3CC2Extensions.h", 
+                    "key": "CC3CC2Extensions.h"
+                }, 
+                "CC3VertexArrays.h": {
+                    "prefix": "../../cocos3d/cocos3d/Meshes/", 
+                    "suffix": "CC3VertexArrays.h", 
+                    "key": "CC3VertexArrays.h"
+                }, 
+                "PVRTStringHash.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTStringHash.h", 
+                    "key": "PVRTStringHash.h"
+                }, 
+                "CC3CALNode.h": {
+                    "prefix": "../../cocos3d/cc3CAL/", 
+                    "suffix": "CC3CALNode.h", 
+                    "key": "CC3CALNode.h"
+                }, 
+                "CCGrabber.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCGrabber.h", 
+                    "key": "CCGrabber.h"
+                }, 
+                "CC3ControllableLayer.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3ControllableLayer.h", 
+                    "key": "CC3ControllableLayer.h"
+                }, 
+                "CCProtocols.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCProtocols.h", 
+                    "key": "CCProtocols.h"
+                }, 
+                "CC3PerformanceStatistics.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3PerformanceStatistics.h", 
+                    "key": "CC3PerformanceStatistics.h"
+                }, 
+                "CC3OpenGLES2.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/", 
+                    "suffix": "CC3OpenGLES2.h", 
+                    "key": "CC3OpenGLES2.h"
+                }, 
+                "ccCArray.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "ccCArray.h", 
+                    "key": "ccCArray.h"
+                }, 
+                "CCMenu.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCMenu.h", 
+                    "key": "CCMenu.h"
+                }, 
+                "CCActionTween.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionTween.h", 
+                    "key": "CCActionTween.h"
+                }, 
+                "CC3Layer.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3Layer.h", 
+                    "key": "CC3Layer.h"
+                }, 
+                "CCTouchHandler.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchHandler.h", 
+                    "key": "CCTouchHandler.h"
+                }, 
+                "CC3GLView-GLES2.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/", 
+                    "suffix": "CC3GLView-GLES2.h", 
+                    "key": "CC3GLView-GLES2.h"
+                }, 
+                "PVRTQuaternion.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTQuaternion.h", 
+                    "key": "PVRTQuaternion.h"
+                }, 
+                "CC3IOSExtensions.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3IOSExtensions.h", 
+                    "key": "CC3IOSExtensions.h"
+                }, 
+                "ccShader_PositionColor_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_frag.h", 
+                    "key": "ccShader_PositionColor_frag.h"
+                }, 
+                "CCEventDispatcher.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCEventDispatcher.h", 
+                    "key": "CCEventDispatcher.h"
+                }, 
+                "CC3ParametricMeshNodes.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3ParametricMeshNodes.h", 
+                    "key": "CC3ParametricMeshNodes.h"
+                }, 
+                "PVRTTexture.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTTexture.h", 
+                    "key": "PVRTTexture.h"
+                }, 
+                "PVRTError.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTError.h", 
+                    "key": "PVRTError.h"
+                }, 
+                "CC3Foundation.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Foundation.h", 
+                    "key": "CC3Foundation.h"
+                }, 
+                "ccShader_PositionTextureColor_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_frag.h", 
+                    "key": "ccShader_PositionTextureColor_frag.h"
+                }, 
+                "CCTransitionProgress.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTransitionProgress.h", 
+                    "key": "CCTransitionProgress.h"
+                }, 
+                "CDOpenALSupport.h": {
+                    "prefix": "../../cocos2d/CocosDenshion/", 
+                    "suffix": "CDOpenALSupport.h", 
+                    "key": "CDOpenALSupport.h"
+                }, 
+                "ccShader_PositionColor_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_vert.h", 
+                    "key": "ccShader_PositionColor_vert.h"
+                }, 
+                "PVRTFixedPoint.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTFixedPoint.h", 
+                    "key": "PVRTFixedPoint.h"
+                }, 
+                "CCActionPageTurn3D.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionPageTurn3D.h", 
+                    "key": "CCActionPageTurn3D.h"
+                }, 
+                "CC3Resource.h": {
+                    "prefix": "../../cocos3d/cocos3d/Resources/", 
+                    "suffix": "CC3Resource.h", 
+                    "key": "CC3Resource.h"
+                }, 
+                "CCVertex.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "CCVertex.h", 
+                    "key": "CCVertex.h"
+                }, 
+                "CCActionEase.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionEase.h", 
+                    "key": "CCActionEase.h"
+                }, 
+                "CC3Camera.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3Camera.h", 
+                    "key": "CC3Camera.h"
+                }, 
+                "CC3Actions.h": {
+                    "prefix": "../../cocos3d/cocos3d/Animation/", 
+                    "suffix": "CC3Actions.h", 
+                    "key": "CC3Actions.h"
+                }, 
+                "CC3MeshParticleSamples.h": {
+                    "prefix": "../../cocos3d/cc3Extras/", 
+                    "suffix": "CC3MeshParticleSamples.h", 
+                    "key": "CC3MeshParticleSamples.h"
+                }, 
+                "CC3Texture.h": {
+                    "prefix": "../../cocos3d/cocos3d/Materials/", 
+                    "suffix": "CC3Texture.h", 
+                    "key": "CC3Texture.h"
+                }, 
+                "TransformUtils.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "TransformUtils.h", 
+                    "key": "TransformUtils.h"
+                }, 
+                "PVRTPFXParser.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTPFXParser.h", 
+                    "key": "PVRTPFXParser.h"
+                }, 
+                "CCSprite.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCSprite.h", 
+                    "key": "CCSprite.h"
+                }, 
+                "neon_matrix_impl.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "neon_matrix_impl.h", 
+                    "key": "neon_matrix_impl.h"
+                }, 
+                "ccGLStateCache.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccGLStateCache.h", 
+                    "key": "ccGLStateCache.h"
+                }, 
+                "CC3MeshNode.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3MeshNode.h", 
+                    "key": "CC3MeshNode.h"
+                }, 
+                "CC3VertexArraysPODExtensions.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3VertexArraysPODExtensions.h", 
+                    "key": "CC3VertexArraysPODExtensions.h"
+                }, 
+                "CCParallaxNode.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCParallaxNode.h", 
+                    "key": "CCParallaxNode.h"
+                }, 
+                "CC3Identifiable.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Identifiable.h", 
+                    "key": "CC3Identifiable.h"
+                }, 
+                "kazmath.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "kazmath.h", 
+                    "key": "kazmath.h"
+                }, 
+                "aabb.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "aabb.h", 
+                    "key": "aabb.h"
+                }, 
+                "CCProfiling.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "CCProfiling.h", 
+                    "key": "CCProfiling.h"
+                }, 
+                "CC3Material.h": {
+                    "prefix": "../../cocos3d/cocos3d/Materials/", 
+                    "suffix": "CC3Material.h", 
+                    "key": "CC3Material.h"
+                }, 
+                "CCConfiguration.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCConfiguration.h", 
+                    "key": "CCConfiguration.h"
+                }, 
+                "CCRenderTexture.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCRenderTexture.h", 
+                    "key": "CCRenderTexture.h"
+                }, 
+                "vec4.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "vec4.h", 
+                    "key": "vec4.h"
+                }, 
+                "CC3OpenGLES1.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/", 
+                    "suffix": "CC3OpenGLES1.h", 
+                    "key": "CC3OpenGLES1.h"
+                }, 
+                "CCActionGrid3D.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionGrid3D.h", 
+                    "key": "CCActionGrid3D.h"
+                }, 
+                "base64.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "base64.h", 
+                    "key": "base64.h"
+                }, 
+                "TGAlib.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "TGAlib.h", 
+                    "key": "TGAlib.h"
+                }, 
+                "CC3BitmapLabelNode.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3BitmapLabelNode.h", 
+                    "key": "CC3BitmapLabelNode.h"
+                }, 
+                "utlist.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "utlist.h", 
+                    "key": "utlist.h"
+                }, 
+                "PVRTgles2Ext.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES2/", 
+                    "suffix": "PVRTgles2Ext.h", 
+                    "key": "PVRTgles2Ext.h"
+                }, 
+                "CCTouchDispatcher.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDispatcher.h", 
+                    "key": "CCTouchDispatcher.h"
+                }, 
+                "CC3Rotator.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Rotator.h", 
+                    "key": "CC3Rotator.h"
+                }, 
+                "CC3OpenGLUtility.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/", 
+                    "suffix": "CC3OpenGLUtility.h", 
+                    "key": "CC3OpenGLUtility.h"
+                }, 
+                "CCScene.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCScene.h", 
+                    "key": "CCScene.h"
+                }, 
+                "quaternion.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "quaternion.h", 
+                    "key": "quaternion.h"
+                }, 
+                "CC3VertexArrayMesh.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3VertexArrayMesh.h", 
+                    "key": "CC3VertexArrayMesh.h"
+                }, 
+                "CC3Math.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Math.h", 
+                    "key": "CC3Math.h"
+                }, 
+                "CC3OpenGLES2Compatibility.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES2/", 
+                    "suffix": "CC3OpenGLES2Compatibility.h", 
+                    "key": "CC3OpenGLES2Compatibility.h"
+                }, 
+                "CC3NodeSequencer.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3NodeSequencer.h", 
+                    "key": "CC3NodeSequencer.h"
+                }, 
+                "PVRTSkipGraph.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTSkipGraph.h", 
+                    "key": "PVRTSkipGraph.h"
+                }, 
+                "CCActionTiledGrid.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionTiledGrid.h", 
+                    "key": "CCActionTiledGrid.h"
+                }, 
+                "CC3Light.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3Light.h", 
+                    "key": "CC3Light.h"
+                }, 
+                "OpenGL_Internal.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "OpenGL_Internal.h", 
+                    "key": "OpenGL_Internal.h"
+                }, 
+                "CC3PVRTTexture.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRTTexture.h", 
+                    "key": "CC3PVRTTexture.h"
+                }, 
+                "CC3LinearMatrix.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3LinearMatrix.h", 
+                    "key": "CC3LinearMatrix.h"
+                }, 
+                "CC3PointParticleSamples.h": {
+                    "prefix": "../../cocos3d/cc3Extras/", 
+                    "suffix": "CC3PointParticleSamples.h", 
+                    "key": "CC3PointParticleSamples.h"
+                }, 
+                "PVRTMap.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTMap.h", 
+                    "key": "PVRTMap.h"
+                }, 
+                "CC3Logging.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Logging.h", 
+                    "key": "CC3Logging.h"
+                }, 
+                "CCParticleSystem.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCParticleSystem.h", 
+                    "key": "CCParticleSystem.h"
+                }, 
+                "SimpleAudioEngine.h": {
+                    "prefix": "../../cocos2d/CocosDenshion/", 
+                    "suffix": "SimpleAudioEngine.h", 
+                    "key": "SimpleAudioEngine.h"
+                }, 
+                "teapot.h": {
+                    "prefix": "../../cocos3d/cc3Extras/", 
+                    "suffix": "teapot.h", 
+                    "key": "teapot.h"
+                }, 
+                "uthash.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "uthash.h", 
+                    "key": "uthash.h"
+                }, 
+                "PVRTTextureAPI.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES/", 
+                    "suffix": "PVRTTextureAPI.h", 
+                    "key": "PVRTTextureAPI.h"
+                }, 
+                "ccShaders.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShaders.h", 
+                    "key": "ccShaders.h"
+                }, 
+                "CC3ParticleSamples.h": {
+                    "prefix": "../../cocos3d/cc3Extras/", 
+                    "suffix": "CC3ParticleSamples.h", 
+                    "key": "CC3ParticleSamples.h"
+                }, 
+                "CGPointExtension.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "CGPointExtension.h", 
+                    "key": "CGPointExtension.h"
+                }, 
+                "CC3PODCamera.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODCamera.h", 
+                    "key": "CC3PODCamera.h"
+                }, 
+                "CC3GLProgramSemantics.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shaders/", 
+                    "suffix": "CC3GLProgramSemantics.h", 
+                    "key": "CC3GLProgramSemantics.h"
+                }, 
+                "plane.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "plane.h", 
+                    "key": "plane.h"
+                }, 
+                "CC3GLSLVariable.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shaders/", 
+                    "suffix": "CC3GLSLVariable.h", 
+                    "key": "CC3GLSLVariable.h"
+                }, 
+                "CCNode+Debug.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCNode+Debug.h", 
+                    "key": "CCNode+Debug.h"
+                }, 
+                "CC3TargettingNode.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3TargettingNode.h", 
+                    "key": "CC3TargettingNode.h"
+                }, 
+                "CC3VertexArrayMeshModel.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3VertexArrayMeshModel.h", 
+                    "key": "CC3VertexArrayMeshModel.h"
+                }, 
+                "CC3OSXExtensions.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3OSXExtensions.h", 
+                    "key": "CC3OSXExtensions.h"
+                }, 
+                "PVRTMatrix.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTMatrix.h", 
+                    "key": "PVRTMatrix.h"
+                }, 
+                "CCParticleExamples.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCParticleExamples.h", 
+                    "key": "CCParticleExamples.h"
+                }, 
+                "CC3ShadowVolumes.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shadows/", 
+                    "suffix": "CC3ShadowVolumes.h", 
+                    "key": "CC3ShadowVolumes.h"
+                }, 
+                "CC3OpenGLES1Compatibility.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/", 
+                    "suffix": "CC3OpenGLES1Compatibility.h", 
+                    "key": "CC3OpenGLES1Compatibility.h"
+                }, 
+                "CC3PointParticles.h": {
+                    "prefix": "../../cocos3d/cocos3d/Particles/", 
+                    "suffix": "CC3PointParticles.h", 
+                    "key": "CC3PointParticles.h"
+                }, 
+                "CC3PODMesh.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODMesh.h", 
+                    "key": "CC3PODMesh.h"
+                }, 
+                "CC3OpenGLCompatibility.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGL/", 
+                    "suffix": "CC3OpenGLCompatibility.h", 
+                    "key": "CC3OpenGLCompatibility.h"
+                }, 
+                "CCNodeAdornments.h": {
+                    "prefix": "CC3DemoMashUp/Classes/Controls/", 
+                    "suffix": "CCNodeAdornments.h", 
+                    "key": "CCNodeAdornments.h"
+                }, 
+                "CCActionCatmullRom.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionCatmullRom.h", 
+                    "key": "CCActionCatmullRom.h"
+                }, 
+                "CC3MeshModel.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3MeshModel.h", 
+                    "key": "CC3MeshModel.h"
+                }, 
+                "CC3ResourceNode.h": {
+                    "prefix": "../../cocos3d/cocos3d/Resources/", 
+                    "suffix": "CC3ResourceNode.h", 
+                    "key": "CC3ResourceNode.h"
+                }, 
+                "ZipUtils.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "ZipUtils.h", 
+                    "key": "ZipUtils.h"
+                }, 
+                "CC3Node.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3Node.h", 
+                    "key": "CC3Node.h"
+                }, 
+                "PVRTGlobal.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTGlobal.h", 
+                    "key": "PVRTGlobal.h"
+                }, 
+                "CCLabelBMFont.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCLabelBMFont.h", 
+                    "key": "CCLabelBMFont.h"
+                }, 
+                "CC3DataStreams.h": {
+                    "prefix": "../../cocos3d/cocos3d/Resources/", 
+                    "suffix": "CC3DataStreams.h", 
+                    "key": "CC3DataStreams.h"
+                }, 
+                "CCDirectorMac.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCDirectorMac.h", 
+                    "key": "CCDirectorMac.h"
+                }, 
+                "CC3Matrix3x3.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3Matrix3x3.h", 
+                    "key": "CC3Matrix3x3.h"
+                }, 
+                "CCActionInterval.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionInterval.h", 
+                    "key": "CCActionInterval.h"
+                }, 
+                "CC3Particles.h": {
+                    "prefix": "../../cocos3d/cocos3d/Particles/", 
+                    "suffix": "CC3Particles.h", 
+                    "key": "CC3Particles.h"
+                }, 
+                "CCGL.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/", 
+                    "suffix": "CCGL.h", 
+                    "key": "CCGL.h"
+                }, 
+                "PVRTResourceFile.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTResourceFile.h", 
+                    "key": "PVRTResourceFile.h"
+                }, 
+                "CC3DemoMashUpAppDelegate.h": {
+                    "prefix": "CC3DemoMashUp/iOS Support/", 
+                    "suffix": "CC3DemoMashUpAppDelegate.h", 
+                    "key": "CC3DemoMashUpAppDelegate.h"
+                }, 
+                "CC3OpenGLFoundation.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/", 
+                    "suffix": "CC3OpenGLFoundation.h", 
+                    "key": "CC3OpenGLFoundation.h"
+                }, 
+                "CCGLProgram.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCGLProgram.h", 
+                    "key": "CCGLProgram.h"
+                }, 
+                "CC3GLMatrix.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3GLMatrix.h", 
+                    "key": "CC3GLMatrix.h"
+                }, 
+                "CC3PVRShamanGLProgramSemantics.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRShamanGLProgramSemantics.h", 
+                    "key": "CC3PVRShamanGLProgramSemantics.h"
+                }, 
+                "PVRTglesExt.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/OGLES/", 
+                    "suffix": "PVRTglesExt.h", 
+                    "key": "PVRTglesExt.h"
+                }, 
+                "PVRTModelPOD.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTModelPOD.h", 
+                    "key": "PVRTModelPOD.h"
+                }, 
+                "CC3PODVertexSkinning.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODVertexSkinning.h", 
+                    "key": "CC3PODVertexSkinning.h"
+                }, 
+                "CCActionManager.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionManager.h", 
+                    "key": "CCActionManager.h"
+                }, 
+                "CC3PVROpenGLFoundation.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVROpenGLFoundation.h", 
+                    "key": "CC3PVROpenGLFoundation.h"
+                }, 
+                "CCMotionStreak.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCMotionStreak.h", 
+                    "key": "CCMotionStreak.h"
+                }, 
+                "CCFileUtils.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "CCFileUtils.h", 
+                    "key": "CCFileUtils.h"
+                }, 
+                "mat4.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "mat4.h", 
+                    "key": "mat4.h"
+                }, 
+                "CCDirectorIOS.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCDirectorIOS.h", 
+                    "key": "CCDirectorIOS.h"
+                }, 
+                "CC3ParametricMeshes.h": {
+                    "prefix": "../../cocos3d/cocos3d/Meshes/", 
+                    "suffix": "CC3ParametricMeshes.h", 
+                    "key": "CC3ParametricMeshes.h"
+                }, 
+                "CC3NodesResource.h": {
+                    "prefix": "../../cocos3d/cocos3d/Resources/", 
+                    "suffix": "CC3NodesResource.h", 
+                    "key": "CC3NodesResource.h"
+                }, 
+                "HUDLayer.h": {
+                    "prefix": "CC3DemoMashUp/Classes/", 
+                    "suffix": "HUDLayer.h", 
+                    "key": "HUDLayer.h"
+                }, 
+                "CC3Scene.h": {
+                    "prefix": "../../cocos3d/cocos3d/Scenes/", 
+                    "suffix": "CC3Scene.h", 
+                    "key": "CC3Scene.h"
+                }, 
+                "CCAction.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCAction.h", 
+                    "key": "CCAction.h"
+                }, 
+                "CCSpriteBatchNode.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCSpriteBatchNode.h", 
+                    "key": "CCSpriteBatchNode.h"
+                }, 
+                "CCNodeExtensions.h": {
+                    "prefix": "CC3DemoMashUp/Classes/Controls/", 
+                    "suffix": "CCNodeExtensions.h", 
+                    "key": "CCNodeExtensions.h"
+                }, 
+                "PVRTTrans.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTTrans.h", 
+                    "key": "PVRTTrans.h"
+                }, 
+                "CC3PVRTPFXParser.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRTPFXParser.h", 
+                    "key": "CC3PVRTPFXParser.h"
+                }, 
+                "CCTMXObjectGroup.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTMXObjectGroup.h", 
+                    "key": "CCTMXObjectGroup.h"
+                }, 
+                "vec3.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "vec3.h", 
+                    "key": "vec3.h"
+                }, 
+                "CC3Matrix4x3.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3Matrix4x3.h", 
+                    "key": "CC3Matrix4x3.h"
+                }, 
+                "CCTMXXMLParser.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTMXXMLParser.h", 
+                    "key": "CCTMXXMLParser.h"
+                }, 
+                "ray2.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "ray2.h", 
+                    "key": "ray2.h"
+                }, 
+                "CCActionCamera.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionCamera.h", 
+                    "key": "CCActionCamera.h"
+                }, 
+                "ccShader_PositionTextureA8Color_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_vert.h", 
+                    "key": "ccShader_PositionTextureA8Color_vert.h"
+                }, 
+                "CC3ActionInterval.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "CC3ActionInterval.h", 
+                    "key": "CC3ActionInterval.h"
+                }, 
+                "CDConfig.h": {
+                    "prefix": "../../cocos2d/CocosDenshion/", 
+                    "suffix": "CDConfig.h", 
+                    "key": "CDConfig.h"
+                }, 
+                "CCLabelTTF.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCLabelTTF.h", 
+                    "key": "CCLabelTTF.h"
+                }, 
+                "CCDrawingPrimitives.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCDrawingPrimitives.h", 
+                    "key": "CCDrawingPrimitives.h"
+                }, 
+                "CC3PODResourceNode.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODResourceNode.h", 
+                    "key": "CC3PODResourceNode.h"
+                }, 
+                "ccShader_Position_uColor_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_vert.h", 
+                    "key": "ccShader_Position_uColor_vert.h"
+                }, 
+                "Joystick.h": {
+                    "prefix": "CC3DemoMashUp/Classes/Controls/", 
+                    "suffix": "Joystick.h", 
+                    "key": "Joystick.h"
+                }, 
+                "PVRTDecompress.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTDecompress.h", 
+                    "key": "PVRTDecompress.h"
+                }, 
+                "CC3DemoMashUp_Prefix.pch": {
+                    "prefix": "CC3DemoMashUp/iOS Support/", 
+                    "suffix": "CC3DemoMashUp_Prefix.pch", 
+                    "key": "CC3DemoMashUp_Prefix.pch"
+                }, 
+                "CC3ModelSampleFactory.h": {
+                    "prefix": "../../cocos3d/cc3Extras/", 
+                    "suffix": "CC3ModelSampleFactory.h", 
+                    "key": "CC3ModelSampleFactory.h"
+                }, 
+                "mat4stack.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/GL/", 
+                    "suffix": "mat4stack.h", 
+                    "key": "mat4stack.h"
+                }, 
+                "CC3PODNode.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODNode.h", 
+                    "key": "CC3PODNode.h"
+                }, 
+                "CCNS.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/", 
+                    "suffix": "CCNS.h", 
+                    "key": "CCNS.h"
+                }, 
+                "CC3GLView-GLES1.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGLES1/", 
+                    "suffix": "CC3GLView-GLES1.h", 
+                    "key": "CC3GLView-GLES1.h"
+                }, 
+                "CCTileMapAtlas.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTileMapAtlas.h", 
+                    "key": "CCTileMapAtlas.h"
+                }, 
+                "CC3PVRFoundation.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRFoundation.h", 
+                    "key": "CC3PVRFoundation.h"
+                }, 
+                "CCTMXLayer.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTMXLayer.h", 
+                    "key": "CCTMXLayer.h"
+                }, 
+                "matrix.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/GL/", 
+                    "suffix": "matrix.h", 
+                    "key": "matrix.h"
+                }, 
+                "CC3PODLight.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODLight.h", 
+                    "key": "CC3PODLight.h"
+                }, 
+                "CCActionInstant.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCActionInstant.h", 
+                    "key": "CCActionInstant.h"
+                }, 
+                "CC3NodeAnimation.h": {
+                    "prefix": "../../cocos3d/cocos3d/Animation/", 
+                    "suffix": "CC3NodeAnimation.h", 
+                    "key": "CC3NodeAnimation.h"
+                }, 
+                "CCScheduler.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCScheduler.h", 
+                    "key": "CCScheduler.h"
+                }, 
+                "ccShader_PositionTextureColorAlphaTest_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColorAlphaTest_frag.h", 
+                    "key": "ccShader_PositionTextureColorAlphaTest_frag.h"
+                }, 
+                "CC3DemoMashUpScene.h": {
+                    "prefix": "CC3DemoMashUp/Classes/", 
+                    "suffix": "CC3DemoMashUpScene.h", 
+                    "key": "CC3DemoMashUpScene.h"
+                }, 
+                "CCESRenderer.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCESRenderer.h", 
+                    "key": "CCESRenderer.h"
+                }, 
+                "CC3PFXResource.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PFXResource.h", 
+                    "key": "CC3PFXResource.h"
+                }, 
+                "CC3CSFResource.h": {
+                    "prefix": "../../cocos3d/cc3CAL/", 
+                    "suffix": "CC3CSFResource.h", 
+                    "key": "CC3CSFResource.h"
+                }, 
+                "CCTransitionPageTurn.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTransitionPageTurn.h", 
+                    "key": "CCTransitionPageTurn.h"
+                }, 
+                "CC3TextureUnit.h": {
+                    "prefix": "../../cocos3d/cocos3d/Materials/", 
+                    "suffix": "CC3TextureUnit.h", 
+                    "key": "CC3TextureUnit.h"
+                }, 
+                "CC3GLView-GL.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/OpenGL/", 
+                    "suffix": "CC3GLView-GL.h", 
+                    "key": "CC3GLView-GL.h"
+                }, 
+                "CC3Matrix.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3Matrix.h", 
+                    "key": "CC3Matrix.h"
+                }, 
+                "CC3DemoMashUpLayer.h": {
+                    "prefix": "CC3DemoMashUp/Classes/", 
+                    "suffix": "CC3DemoMashUpLayer.h", 
+                    "key": "CC3DemoMashUpLayer.h"
+                }, 
+                "CCSpriteFrame.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCSpriteFrame.h", 
+                    "key": "CCSpriteFrame.h"
+                }, 
+                "CC3Environment.h": {
+                    "prefix": "../../cocos3d/cocos3d/Utility/", 
+                    "suffix": "CC3Environment.h", 
+                    "key": "CC3Environment.h"
+                }, 
+                "CCParticleBatchNode.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCParticleBatchNode.h", 
+                    "key": "CCParticleBatchNode.h"
+                }, 
+                "ccShader_PositionTexture_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_frag.h", 
+                    "key": "ccShader_PositionTexture_frag.h"
+                }, 
+                "CDXPropertyModifierAction.h": {
+                    "prefix": "../../cocos2d/CocosDenshionExtras/", 
+                    "suffix": "CDXPropertyModifierAction.h", 
+                    "key": "CDXPropertyModifierAction.h"
+                }, 
+                "CC3GLProgramContext.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shaders/", 
+                    "suffix": "CC3GLProgramContext.h", 
+                    "key": "CC3GLProgramContext.h"
+                }, 
+                "CC3IdentifiablePODExtensions.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3IdentifiablePODExtensions.h", 
+                    "key": "CC3IdentifiablePODExtensions.h"
+                }, 
+                "CC3ProjectionMatrix.h": {
+                    "prefix": "../../cocos3d/cocos3d/Matrices/", 
+                    "suffix": "CC3ProjectionMatrix.h", 
+                    "key": "CC3ProjectionMatrix.h"
+                }, 
+                "ccDeprecated.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccDeprecated.h", 
+                    "key": "ccDeprecated.h"
+                }, 
+                "CCGLView.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCGLView.h", 
+                    "key": "CCGLView.h"
+                }, 
+                "CCParticleSystemQuad.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCParticleSystemQuad.h", 
+                    "key": "CCParticleSystemQuad.h"
+                }, 
+                "CC3NodeVisitor.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3NodeVisitor.h", 
+                    "key": "CC3NodeVisitor.h"
+                }, 
+                "PVRTMemoryFileSystem.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTMemoryFileSystem.h", 
+                    "key": "PVRTMemoryFileSystem.h"
+                }, 
+                "ccMacros.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccMacros.h", 
+                    "key": "ccMacros.h"
+                }, 
+                "CC3BoundingVolumes.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3BoundingVolumes.h", 
+                    "key": "CC3BoundingVolumes.h"
+                }, 
+                "ccShader_PositionTexture_vert.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_vert.h", 
+                    "key": "ccShader_PositionTexture_vert.h"
+                }, 
+                "CC3PODMaterial.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PODMaterial.h", 
+                    "key": "CC3PODMaterial.h"
+                }, 
+                "CCLabelAtlas.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCLabelAtlas.h", 
+                    "key": "CCLabelAtlas.h"
+                }, 
+                "PVRTHash.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTHash.h", 
+                    "key": "PVRTHash.h"
+                }, 
+                "mat3.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "mat3.h", 
+                    "key": "mat3.h"
+                }, 
+                "CC3CAFResource.h": {
+                    "prefix": "../../cocos3d/cc3CAL/", 
+                    "suffix": "CC3CAFResource.h", 
+                    "key": "CC3CAFResource.h"
+                }, 
+                "CC3Mesh.h": {
+                    "prefix": "../../cocos3d/cocos3d/Meshes/", 
+                    "suffix": "CC3Mesh.h", 
+                    "key": "CC3Mesh.h"
+                }, 
+                "CCTexture2D.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTexture2D.h", 
+                    "key": "CCTexture2D.h"
+                }, 
+                "CCTextureAtlas.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTextureAtlas.h", 
+                    "key": "CCTextureAtlas.h"
+                }, 
+                "utility.h": {
+                    "prefix": "../../cocos2d/kazmath/include/kazmath/", 
+                    "suffix": "utility.h", 
+                    "key": "utility.h"
+                }, 
+                "CC3NodePODExtensions.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3NodePODExtensions.h", 
+                    "key": "CC3NodePODExtensions.h"
+                }, 
+                "CC3GLProgram.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shaders/", 
+                    "suffix": "CC3GLProgram.h", 
+                    "key": "CC3GLProgram.h"
+                }, 
+                "ControllableCCLayer.h": {
+                    "prefix": "../../cocos3d/deprecated/", 
+                    "suffix": "ControllableCCLayer.h", 
+                    "key": "ControllableCCLayer.h"
+                }, 
+                "PVRTArray.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTArray.h", 
+                    "key": "PVRTArray.h"
+                }, 
+                "CC3GLProgramMatchers.h": {
+                    "prefix": "../../cocos3d/cocos3d/Shaders/", 
+                    "suffix": "CC3GLProgramMatchers.h", 
+                    "key": "CC3GLProgramMatchers.h"
+                }, 
+                "CC3OpenGLProgPipeline.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/", 
+                    "suffix": "CC3OpenGLProgPipeline.h", 
+                    "key": "CC3OpenGLProgPipeline.h"
+                }, 
+                "CCWindow.h": {
+                    "prefix": "../../cocos2d/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCWindow.h", 
+                    "key": "CCWindow.h"
+                }, 
+                "CCShaderCache.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCShaderCache.h", 
+                    "key": "CCShaderCache.h"
+                }, 
+                "CCProgressTimer.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCProgressTimer.h", 
+                    "key": "CCProgressTimer.h"
+                }, 
+                "CC3Billboard.h": {
+                    "prefix": "../../cocos3d/cocos3d/Nodes/", 
+                    "suffix": "CC3Billboard.h", 
+                    "key": "CC3Billboard.h"
+                }, 
+                "CCNode.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCNode.h", 
+                    "key": "CCNode.h"
+                }, 
+                "CCTexturePVR.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCTexturePVR.h", 
+                    "key": "CCTexturePVR.h"
+                }, 
+                "ccUtils.h": {
+                    "prefix": "../../cocos2d/cocos2d/Support/", 
+                    "suffix": "ccUtils.h", 
+                    "key": "ccUtils.h"
+                }, 
+                "CC3PVRGLTexture.h": {
+                    "prefix": "../../cocos3d/cc3PVR/", 
+                    "suffix": "CC3PVRGLTexture.h", 
+                    "key": "CC3PVRGLTexture.h"
+                }, 
+                "ccShader_PositionTextureA8Color_frag.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_frag.h", 
+                    "key": "ccShader_PositionTextureA8Color_frag.h"
+                }, 
+                "CCDirector.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCDirector.h", 
+                    "key": "CCDirector.h"
+                }, 
+                "CC3OpenGLFixedPipeline.h": {
+                    "prefix": "../../cocos3d/cocos3d/OpenGL/", 
+                    "suffix": "CC3OpenGLFixedPipeline.h", 
+                    "key": "CC3OpenGLFixedPipeline.h"
+                }, 
+                "CCMenuItem.h": {
+                    "prefix": "../../cocos2d/cocos2d/", 
+                    "suffix": "CCMenuItem.h", 
+                    "key": "CCMenuItem.h"
+                }, 
+                "PVRTVertex.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTVertex.h", 
+                    "key": "PVRTVertex.h"
+                }, 
+                "PVRTString.h": {
+                    "prefix": "../../cocos3d/cc3PVR/PVRT 3.1/", 
+                    "suffix": "PVRTString.h", 
+                    "key": "PVRTString.h"
+                }, 
+                "CC3VertexSkinning.h": {
+                    "prefix": "../../cocos3d/cocos3d/Meshes/", 
+                    "suffix": "CC3VertexSkinning.h", 
+                    "key": "CC3VertexSkinning.h"
+                }
+            }
+        }, 
+        {
+            "type": "I", 
+            "header_path": "../../cocos2d/kazmath/include"
+        }
+    ], 
+    "modules": [], 
+    "version": "1", 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-fwritable-strings", 
+        "-funroll-loops", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Werror", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "deps": [
+        "UIKit", 
+        "CoreGraphics", 
+        "Foundation", 
+        "OpenGLES", 
+        "QuartzCore", 
+        "UIKit", 
+        "AudioToolbox", 
+        "OpenAL", 
+        "AVFoundation"
+    ], 
+    "config": {
+        "APPLICATION_NAME": "CC3DemoMashUp", 
+        "TEMPLATE_VALUES": {
+            "PRODUCT_NAME": "CC3DemoMashUp", 
+            "EXECUTABLE_NAME": "CC3DemoMashUp"
+        }, 
+        "LONG_VERSION": "1.0", 
+        "APPLICATION_FULL_NAME": "CC3DemoMashUp", 
+        "APPLICATION_IDENTIFIER": "com.yourcompany.CC3DemoMashUp"
+    }
+}

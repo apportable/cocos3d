@@ -148,7 +148,7 @@ static inline UIDeviceOrientation CC3UIDeviceOrientationFromUIInterfaceOrientati
 		case UIInterfaceOrientationLandscapeRight:
 			return UIDeviceOrientationLandscapeLeft;
 		default:
-			return uiOrientation;
+			return (UIDeviceOrientation)uiOrientation;
 	}
 }
 
