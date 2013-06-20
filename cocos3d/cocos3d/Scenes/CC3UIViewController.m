@@ -183,9 +183,11 @@
 
 -(void) viewDidLayoutSubviews {
 	// viewDidLayoutSubviews was introduced in iOS5. Make sure it's okay to propagate upwards
-	//if ( [[self superclass] respondsToSelector: @selector(viewDidLayoutSubviews)] )
-		//[super viewDidLayoutSubviews];
-	LogTrace(@"%@ viewDidLayoutSubviews", self);
+#ifndef ANDROID
+	if ( [[self superclass] respondsToSelector: @selector(viewDidLayoutSubviews)] )
+		[super viewDidLayoutSubviews];
+#endif
+    LogTrace(@"%@ viewDidLayoutSubviews", self);
 	_viewWasLaidOut = YES;
 	[self ensureScene];
 }
@@ -326,12 +328,16 @@
 				myView.backgroundColor = [UIColor clearColor];
 				[window addSubview: self.deviceCameraView];
 				[window bringSubviewToFront: myView];
-				//[_deviceCameraView.layer.session startRunning];
-			} else {
+#ifndef ANDROID
+				[_deviceCameraView.layer.session startRunning];
+#endif
+            } else {
 				// If reverting, remove the clear background color, and remove the picker view from the window.
 				self.view.backgroundColor = nil;
-				//[_deviceCameraView.layer.session stopRunning];
-				[_deviceCameraView removeFromSuperview];
+#ifndef ANDROID
+				[_deviceCameraView.layer.session stopRunning];
+#endif
+                [_deviceCameraView removeFromSuperview];
 			}
 
 			// Let subclasses of this controller know that the change has happened
@@ -356,20 +362,20 @@
 
 -(CC3AVCameraView*) deviceCameraView {
 	if ( !_deviceCameraView && self.isDeviceCameraAvailable ) {
-        /*
+#ifndef ANDROID
 		AVCaptureDevice* camDevice = [AVCaptureDevice defaultDeviceWithMediaType: AVMediaTypeVideo];
 		AVCaptureInput* avInput = [AVCaptureDeviceInput deviceInputWithDevice: camDevice error: nil];
 		AVCaptureSession* avSession = [[[AVCaptureSession alloc] init] autorelease];
-		[avSession addInput: avInput];
-        */
-		
+        [avSession addInput: avInput];
+#endif
+
 		_deviceCameraView = [[CC3AVCameraView alloc] initWithFrame: self.view.frame];
-        /*
+#ifndef ANDROID
 		AVCaptureVideoPreviewLayer* avLayer = _deviceCameraView.layer;
 		avLayer.session = avSession;
 		avLayer.videoGravity = AVLayerVideoGravityResizeAspectFill;
-        */
-	}
+#endif
+    }
 	return _deviceCameraView;
 }
 

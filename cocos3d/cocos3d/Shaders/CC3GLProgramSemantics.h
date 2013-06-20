@@ -31,8 +31,10 @@
 
 @class CC3GLSLVariable, CC3GLSLUniform, CC3NodeDrawingVisitor;
 
+#ifdef ANDROID
 #import <OpenGLES/ES2/gl.h>
 #import <OpenGLES/ES2/glext.h>
+#endif
 
 #pragma mark Semantic enumerations
 

@@ -495,7 +495,9 @@
 @interface CC3AVCameraView : UIView
 
 /** The underlying layer cast as a AVCaptureVideoPreviewLayer. */
-//@property(nonatomic, readonly, retain) AVCaptureVideoPreviewLayer* layer;
+#ifndef ANDROID
+@property(nonatomic, readonly, retain) AVCaptureVideoPreviewLayer* layer;
+#endif
 @end
 
 #endif // CC3_IOS

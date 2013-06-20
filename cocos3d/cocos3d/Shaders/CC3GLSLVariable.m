@@ -154,10 +154,14 @@ NSString* NSStringFromCC3GLSLVariableScope(CC3GLSLVariableScope scope) {
 	GLint maxNameLen = [_program maxAttributeNameLength];
 	char cName[maxNameLen];
 
+#ifdef ANDROID
     GLint size = _size;
 	
 	glGetActiveAttrib(_program.programID, _index, maxNameLen, NULL, &size, &_type, cName);
-	LogGLErrorTrace(@"glGetActiveAttrib(%u, %u, %i, NULL, %i, %@, \"%s\")", _program.programID, _index, maxNameLen, _size, NSStringFromGLEnum(_type), cName);
+#else
+    glGetActiveAttrib(_program.programID, _index, maxNameLen, NULL, &_size, &_type, cName);
+#endif
+    LogGLErrorTrace(@"glGetActiveAttrib(%u, %u, %i, NULL, %i, %@, \"%s\")", _program.programID, _index, maxNameLen, _size, NSStringFromGLEnum(_type), cName);
 	
 	_location = glGetAttribLocation(_program.programID, cName);
 	LogGLErrorTrace(@"glGetAttribLocation(%u, \"%s\")", _program.programID, cName);
@@ -498,11 +502,15 @@ NSString* NSStringFromCC3GLSLVariableScope(CC3GLSLVariableScope scope) {
 	GLint maxNameLen = [_program maxUniformNameLength];
 	char cName[maxNameLen];
 
+#ifdef ANDROID
     GLint size = _size;
 	
 	glGetActiveUniform(_program.programID, _index, maxNameLen, NULL, &size, &_type, cName);
-	LogGLErrorTrace(@"glGetActiveUniform(%u, %u, %i, NULL, %i, %@, \"%s\")", _program.programID, _index, maxNameLen, _size, NSStringFromGLEnum(_type), cName);
-	
+#else
+    glGetActiveAttrib(_program.programID, _index, maxNameLen, NULL, &_size, &_type, cName);
+#endif
+    LogGLErrorTrace(@"glGetActiveUniform(%u, %u, %i, NULL, %i, %@, \"%s\")", _program.programID, _index, maxNameLen, _size, NSStringFromGLEnum(_type), cName);
+
 	_varLen = CC3GLElementTypeSize(_type) * _size;
 	free(_varValue);
 	_varValue = calloc(_varLen, 1);

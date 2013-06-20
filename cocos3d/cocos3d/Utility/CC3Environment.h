@@ -33,8 +33,13 @@
 #import "cocos2d.h"
 
 /** OS platform macros */
+#ifdef ANDROID
 # define CC3_IOS 1//			defined(__IPHONE_OS_VERSION_MAX_ALLOWED)
 # define CC3_OSX 0//			defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+#else
+# define CC3_IOS 			defined(__IPHONE_OS_VERSION_MAX_ALLOWED)
+# define CC3_OSX 			defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+#endif
 
 /** Create convenience tests for whether we are linking to cocos2d 1.x or 2.x. */
 #ifndef CC3_CC2_1

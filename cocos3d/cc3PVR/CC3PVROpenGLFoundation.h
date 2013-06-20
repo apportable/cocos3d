@@ -30,8 +30,13 @@
 /** @file */	// Doxygen marker
 
 /** OS platform macros */
+#ifdef ANDROID
 # define CC3_IOS 1//			defined(__IPHONE_OS_VERSION_MAX_ALLOWED)
 # define CC3_OSX 0//			defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+#else
+# define CC3_IOS 			defined(__IPHONE_OS_VERSION_MAX_ALLOWED)
+# define CC3_OSX 			defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
+#endif
 
 #if CC3_IOS
 #	define TARGET_OS_IPHONE 1

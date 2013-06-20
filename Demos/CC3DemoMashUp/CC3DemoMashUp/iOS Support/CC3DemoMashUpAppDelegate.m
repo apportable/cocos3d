@@ -93,7 +93,7 @@
 #endif
 
 -(void) applicationDidFinishLaunching: (UIApplication*) application {
-#ifdef ANDROID
+#ifdef APPORTABLE
     [UIScreen mainScreen].currentMode = [UIScreenMode emulatedMode:UIScreenIPhone3GEmulationMode];
 #endif
 
