@@ -90,6 +90,14 @@
 		[self.viewController viewDidLayoutSubviews];
 }
 
+#ifdef APPORTABLE // Temp hack, probably will be unnessicary soon.
+- (void)layoutIfNeeded
+{
+    [super layoutIfNeeded];
+    [self.viewController viewDidLayoutSubviews];
+}
+#endif
+
 @end
 
 

@@ -2604,7 +2604,11 @@ typedef enum {
  *
  * This property will be nil if this node has not been added as a child to a parent node.
  */
+#ifdef ANDROID
+@property(nonatomic, readwrite, retain) CC3Node* parent;
+#else
 @property(nonatomic, readonly) CC3Node* parent;
+#endif
 
 /**
  * Returns the root ancestor of this node, in the node structural hierarchy,
