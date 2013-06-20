@@ -507,7 +507,7 @@ NSString* NSStringFromCC3GLSLVariableScope(CC3GLSLVariableScope scope) {
 	
 	glGetActiveUniform(_program.programID, _index, maxNameLen, NULL, &size, &_type, cName);
 #else
-    glGetActiveAttrib(_program.programID, _index, maxNameLen, NULL, &_size, &_type, cName);
+    glGetActiveUniform(_program.programID, _index, maxNameLen, NULL, &_size, &_type, cName);
 #endif
     LogGLErrorTrace(@"glGetActiveUniform(%u, %u, %i, NULL, %i, %@, \"%s\")", _program.programID, _index, maxNameLen, _size, NSStringFromGLEnum(_type), cName);
 
